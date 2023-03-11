@@ -135,7 +135,7 @@ Here is what this function does:
 
       This can be a bit confusing,
       as ``InstructionTranslator`` is not an `fx` tracer, but its stored
-      in a variable named tracer, and its output*\ **is**\ *an `fx`tracer.*
+      in a variable named tracer, and its output\* **is** an `fx` tracer.
 
    3. The function produces guards and stores them on ``output`` above.
 
